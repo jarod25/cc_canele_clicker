@@ -1,13 +1,13 @@
 body {
-  background-color: lightblue;
+  background-color: white;
 }
 
 h1 {
-  color: white;
+  color: purple;
   text-align: center;
 }
 
-p {
-  font-family: verdana;
+div {
+  font-family: 'Comic Sans MS', cursive;
   font-size: 20px;
 }

@@ -11,3 +11,8 @@ div {
   font-family: 'Comic Sans MS', cursive;
   font-size: 20px;
 }
+
+b {
+  color: #a47;
+  text-align: center;
+}

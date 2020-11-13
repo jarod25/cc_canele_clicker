@@ -1,4 +1,6 @@
-function onclick(<b1>){
-if ("button"=){
-  <b1>=<b1>+1
-}}
+var button = "button1"
+
+button.onmouseup = function() {
+
+
+}
